@@ -1,0 +1,5 @@
+**Power BI Labs**
+
+Welcome to the Power BI Labs repository!  
+This repository showcases my Power BI projects and exercises as part of my learning journey in data analytics.  
+Here, you'll find hands-on tasks, reports, dashboards, and visualizations created using Power BI.  
