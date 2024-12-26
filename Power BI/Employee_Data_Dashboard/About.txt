@@ -1,0 +1,12 @@
+**Employee Dashboard**
+This Power BI dashboard provides an overview of employee data, offering insights into workforce demographics, performance metrics, and organizational trends.
+
+--Features
+  Demographics: Gender, age distribution, and department-wise breakdown.
+  Performance Metrics: Employee performance ratings and growth trends.
+  Insights: Attrition rates, tenure analysis, and key workforce trends.
+
+--How to Use
+  Download the .pbix file from this repository.
+  Open it in Power BI Desktop.
+I Interact with slicers and filters to explore the data.
