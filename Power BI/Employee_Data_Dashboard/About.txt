@@ -9,4 +9,4 @@ This Power BI dashboard provides an overview of employee data, offering insights
 --How to Use
   Download the .pbix file from this repository.
   Open it in Power BI Desktop.
-I Interact with slicers and filters to explore the data.
+  Interact with slicers and filters to explore the data.
