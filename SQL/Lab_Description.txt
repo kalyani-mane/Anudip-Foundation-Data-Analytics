@@ -1,4 +1,0 @@
-**SQL Labs**
-Welcome to the SQL Labs repository!  
-This repository showcases my SQL projects and exercises as part of my learning journey in data analytics and database management.  
-Here, you'll find hands-on tasks, queries, database designs, and performance optimizations created using SQL
