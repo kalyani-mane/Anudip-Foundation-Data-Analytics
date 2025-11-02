@@ -9,9 +9,6 @@ The Low Code Data Analytics Course covers a wide range of topics, providing a so
 
 Topics Covered:  
 Excel: Basics to advanced data cleaning, analysis, and visualization.    
-Power BI: Creating interactive dashboards and insightful visualizations.  
-SQL: Managing and querying databases efficiently.  
-Python: Leveraging libraries like Pandas, NumPy, and Matplotlib for data analysis and visualization.  
 
 📂 About the Repository  
 This repository serves as a showcase of my work throughout the course. It contains all tasks, assignments, projects, and practice files I’ve completed during the program.  
@@ -23,7 +20,4 @@ By maintaining this repository, I aim to:
 🚀 Repository Structure  
 Here’s how the repository is organized:  
 --Excel/: Tutorials, practice files, and analysis examples.  
---PowerBI/: Dashboards, reports, and storytelling projects.  
---SQL/: Queries, database management tasks, and exercises.  
---Python/: Scripts and notebooks for data analysis and visualization.  
---Projects/: Comprehensive projects demonstrating real-world data analytics workflows.  
+
